@@ -1,0 +1,6 @@
+token=NTgyNzEyNDg5NjExODg2NjAy.XO9kxw.v-m-Dn5fcuQ2MhTksCV4ogkogVg
+owner=415142691282616330
+prefix=1
+game=OliverSky | 1help
+stayinchannel=true
+songinstatus=false
